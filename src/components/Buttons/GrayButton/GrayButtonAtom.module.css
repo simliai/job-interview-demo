@@ -1,0 +1,26 @@
+.container {
+  /* display: flex;
+  padding: 11px 24px;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 100px;
+  user-select: none;
+  cursor: pointer;
+  transition: all 0.3s ease; */
+}
+
+.container:hover {
+  /* background: white;
+  border-radius: 4px;
+  color: black; */
+}
+
+.text {
+  font-family: ABCReproMono;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0em;
+  text-align: center;
+}

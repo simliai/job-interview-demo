@@ -1,0 +1,25 @@
+.cookieHeading {
+  color: #000000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px;
+}
+
+.customP {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  word-wrap: break-word;
+  color: #000000;
+}
+
+.hyperLink {
+  color: #00f;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  word-wrap: break-word;
+}

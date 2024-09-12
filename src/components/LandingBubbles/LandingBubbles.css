@@ -1,0 +1,8 @@
+.YellowFilter {
+  filter: brightness(0%) saturate(100%) invert(83%) sepia(95%) saturate(1104%)
+    hue-rotate(358deg) brightness(108%) contrast(104%);
+}
+
+.oblique {
+  font-style: oblique;
+}

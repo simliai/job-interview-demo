@@ -1,0 +1,28 @@
+.BubbleContainer {
+  display: flex;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 0px 24px 1px 24px;
+
+  font-family: 'ABCRepro', monospace;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+
+  filter: brightness(0) invert(1);
+}
+
+.animate-rotate {
+  animation: rotate 3s linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
