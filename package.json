@@ -31,7 +31,6 @@
     "react-hot-toast": "^2.4.1",
     "react-modal": "^3.16.1",
     "react-tooltip": "^5.26.3",
-    "require-hook": "^0.1.2",
     "retell-client-js-sdk": "^1.3.3",
     "retell-sdk": "^3.14.0",
     "simli-retell-client-js-sdk": "file:simli-retell-client-js-sdk",
