@@ -1,4 +1,5 @@
 import { SAgetInteractionFeedback } from '@/app/actions';
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { UpdateEvent } from './Interaction';
 import InteractionLoadingBar from './InteractionLoadingBar';
@@ -79,8 +80,7 @@ const InteractionFeedback = ({
               Voila! Your mock job interview feedback is primed for perusal!
             </b>
             <p className='max-w-[345px] font-ABCRepro text-[#111]'>
-              After your mock interview for the {jobTitle} position at{' '}
-              {companyName},  heres your feedback:
+            Ready to embed human avatars in your AI interview solution? Contact us <Link className="underline" href="https://www.simli.com/contact">here</Link>
             </p>
           </div>
 
